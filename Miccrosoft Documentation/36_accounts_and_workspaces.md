@@ -1,0 +1,3 @@
+# Accounts and workspaces
+- In azure databricks, a workspace is an azure databricks deployment in the cloud that functions as an environment for your team to acess databricks assets. Your organization can hoose to have either multiple workspaces or just one, depending on its needs.
+- An azure databricks account represents a single entity that can include multiple workspaces. Accounts enabled for unit catalog can be used to manage users and their access to data cntrally across all of the workspaces in the account.
