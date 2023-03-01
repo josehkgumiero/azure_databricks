@@ -1,0 +1,2 @@
+# Real-time and streaming analytics
+- Azure Databricks leverages Apache Spark Structured Streaming to work with streaming data and incremental data changes. Structured Streaming integrates tightly with Delta Lake, and these technologies provide the foundations for both Delta Live Tables and Auto Loader. 

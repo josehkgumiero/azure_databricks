@@ -1,0 +1,17 @@
+# What is Azure Databricks used for?
+- Our customers use azure databricks to process, store, clean, share, analyze, model, and monetize their datasets with solutions from BI to machine learning. You can use the azure databricks platform to build many different applications spanning data personas. Customers who fully embrance the lakehouse take advantage of our unified platform to build and deploy data engineering workflows, machine learning models, and analytics dashboards that power innovations and insigts across an organization.
+- The Azure Databricks workspace provides user interfaces for many core data tasks, including tools for the following:
+    - Interactive notebooks
+    - Workflows scheduler and manager
+    - SQL editor and dashboards
+    - Data ingestion and governance
+    - Data discovery, annotation, and exploration
+    - Compute management
+    - Machine learning experiment tracking
+    - ML model serving
+    - A feaature store
+    - Source control with Git
+- In addition to the workspace UI, you can interact wth azure databricks programmatically with the following tools:
+    - REST APP
+    - CLI
+    - Terraform

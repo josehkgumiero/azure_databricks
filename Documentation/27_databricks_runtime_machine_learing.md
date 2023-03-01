@@ -1,0 +1,3 @@
+# Databricks Runtime for Machine Learning
+
+- Databricks Runtime for Machine Learning (Databricks Runtime ML) automates the creation of a cluster optimized for machine learning. Databricks Runtime ML clusters include the most popular machine learning libraries, such as TensorFlow, PyTorch, Keras, and XGBoost, and also include libraries required for distributed training such as Horovod. Using Databricks Runtime ML speeds up cluster creation and ensures that the installed library versions are compatible.

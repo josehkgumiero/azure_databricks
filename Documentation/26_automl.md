@@ -1,0 +1,3 @@
+# AutoML
+
+- AutoML enables you to automatically generate machine learning models from data and accelerate the path to production. It prepares the dataset for model training and then performs and records a set of trials, creating, tuning, and evaluating multiple models. It displays the results and provides a Python notebook with the source code for each trial run so you can review, reproduce, and modify the code. AutoML also calculates summary statistics on your dataset and saves this information in a notebook that you can review later.

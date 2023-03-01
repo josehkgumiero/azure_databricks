@@ -1,0 +1,3 @@
+# Models
+
+- Azure Databricks provides a hosted version of MLflow Model Registry to help you to manage the full lifecycle of MLflow Models. Model Registry provides chronological model lineage (which MLflow experiment and run produced the model at a given time), model versioning, stage transitions (for example, from staging to production or archived), and email notifications of model events. You can also create and view model descriptions and leave comments.

@@ -1,0 +1,13 @@
+# Managed integration with open source
+- Databricks has a strong commitment to the open soure community. Databricks manages updates of open source integrations in the Databricks Runtime releases. The following technologies are open source projects founded by Databricks employees:
+    - Delta Lake
+    - Delta Sharing
+    - MLflow
+    - Apache Spark and Structured Streaming
+    - Redash
+- Azure Databricks maintins a number of proprietary tools that integrate and expand these technologies to add optimized performance and ease of use, such as the following:
+    - Workflows
+    - Unity Catalog
+    - Delta Live Tables
+    - Databricks SQL
+    - Photon

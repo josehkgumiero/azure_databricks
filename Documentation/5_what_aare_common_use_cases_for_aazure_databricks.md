@@ -1,0 +1,2 @@
+# What are common use cases for Azure Databricks?
+- Use cases on azure daabricks use as varied as the data processed on the platform and the many peronas of eployees that work with data as a core part of their job. The following use cases highlight how users throughout your organization can everage azure databricks to accomplish tasks essential to processing, storing, anda analyzing the data that drives critical business functions and decisions.

@@ -1,0 +1,18 @@
+# What is Databricks Machine Learning?
+- Databricks machine learning is an integrated end-to-end machine earning platform incorporating managed services for experiment tracking, mode training, feature development and management, and feature and model serving. The diagram show how the capabilities of databricks map to the steps of the model development and deployment process.
+- data preparation
+    - data sources
+    - delta tables
+    - feature store
+- model training
+    - autoML
+    - notebooks
+    - Experiments
+- production
+    - batch/streaming inference
+    - online serving endpoint
+- With Databricks Machine Learning, you can:
+    - Train models either manually or with AutoML.
+    - Track training parameters and models using experiments with MLflow tracking.
+    - Create feature tables and access them for model training and inference.
+    - Share, manage, and serve models using Model Registry.

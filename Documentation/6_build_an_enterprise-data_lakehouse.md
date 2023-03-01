@@ -1,0 +1,2 @@
+# Build an enterprise data lakehouse
+- The data lakehouse combines the  strengths of enterprise data wehouses and data lakes to accelerate, simplify, and unify enterprise data solutions. Data engineers, data scientists, analysts, and production systems can all use the data lakehouse as their single source of truth, allowing timely access to consistent data and reducing the complexities of building maitaining, and sycing many distributed data systems.

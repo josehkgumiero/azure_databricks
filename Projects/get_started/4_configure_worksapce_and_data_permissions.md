@@ -1,0 +1,4 @@
+# Configure workspace and data permissions
+- Azure Databricks restricts certain activities to workspace admins to ensure that customers are able to securely configure access to data and code. Some Azure Databricks features must be enabled by a workspace admin before users can use them. For common tasks, see Get started with Azure Databricks administration.
+- If you’re in a Unity Catalog-enabled workspace, you can leverage a number of additional features for security and governance. See What is Unity Catalog?.
+- If you want your users to use Databricks SQL, a Azure Databricks workspace admin must perform some configurations tasks. See Databricks SQL administration.
